@@ -1,0 +1,28 @@
+{
+  "name": "robin_math",
+  "version": "1.0.0",
+  "description": "This module contain some basic math calculation",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinn007/math_module.git"
+  },
+  "keywords": [
+    "math",
+    "sum",
+    "subtract",
+    "multiply"
+  ],
+  "author": "robin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinn007/math_module/issues"
+  },
+  "homepage": "https://github.com/robinn007/math_module#readme"
+}
